@@ -1,0 +1,4 @@
+.cajaflexible{
+    display: flex;
+    flex: content;
+}
