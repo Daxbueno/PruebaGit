@@ -1,4 +1,14 @@
 .cajaflexible{
     display: flex;
-    flex: content;
+    flex-wrap: wrap;
+}
+.cuarto{
+    width: 25%;
+    background-color: aqua;
+    height: 300px;
+}
+.miti{
+    width: 50%;
+    background-color: red;
+    height: 300px;
 }
